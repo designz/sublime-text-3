@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"HTML5"
+	],
+	"theme": "Flatland Dark.sublime-theme"
+}

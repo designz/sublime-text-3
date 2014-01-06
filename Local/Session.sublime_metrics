@@ -1,0 +1,27 @@
+{
+	"licensed": false,
+	"packages":
+	[
+		"3024 Color Scheme",
+		"CTags",
+		"Function Name Display",
+		"Git",
+		"JsFormat",
+		"Package Control",
+		"Theme - Argonaut",
+		"Theme - Cobalt2",
+		"Theme - Flatland",
+		"Theme - Phoenix",
+		"Theme - Soda",
+		"jQuery Snippets pack"
+	],
+	"startup_sec": 0.266426,
+	"syntax":
+	{
+		"CSS": 4,
+		"HTML": 19,
+		"JSON": 24,
+		"JavaScript": 37
+	},
+	"time": 1388973146
+}
